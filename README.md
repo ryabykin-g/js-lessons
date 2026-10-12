@@ -1,0 +1,1 @@
+i am learning JavaScript! Here you find my first HTMLs and scripts. Don't judge strictly ))
